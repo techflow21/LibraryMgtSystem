@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\LibraryMgtSystem_UI",
+    "\\LibraryMgtSystem_UI\\Admin_UI"
   ],
-  "SelectedNode": "\\C:\\Users\\HP\\Desktop\\NewM\\LibraryMgtSystem",
+  "SelectedNode": "\\LibraryMgtSystem_UI\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

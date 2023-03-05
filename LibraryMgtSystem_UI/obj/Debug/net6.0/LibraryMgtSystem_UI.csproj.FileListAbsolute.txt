@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\bin\Debug\net6.0\LibraryMgtSystem_UI.exe
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\bin\Debug\net6.0\LibraryMgtSystem_UI.deps.json
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\bin\Debug\net6.0\LibraryMgtSystem_UI.runtimeconfig.json
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\bin\Debug\net6.0\LibraryMgtSystem_UI.dll
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\bin\Debug\net6.0\LibraryMgtSystem_UI.pdb
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.AssemblyInfo.cs
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.dll
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\refint\LibraryMgtSystem_UI.dll
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.pdb
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\LibraryMgtSystem_UI.genruntimeconfig.cache
+C:\Users\HP\Desktop\NewM\LibraryMgtSystem\LibraryMgtSystem_UI\obj\Debug\net6.0\ref\LibraryMgtSystem_UI.dll
