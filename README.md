@@ -1,2 +1,2 @@
 # LibraryMgtSystem
-This is an implementation of a Library 
+This is an implementation of a Library Management 
